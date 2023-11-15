@@ -9,11 +9,13 @@
     "bootstrap": "^5.2.0",
     "dom": "^0.0.3",
     "react": "^18.2.0",
+    "react-chatbot-kit": "^2.1.2",
     "react-custom-scrollbars-2": "^4.5.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.6.1",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "react-util-kit": "^0.0.15",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
